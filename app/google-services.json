@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514390069422",
+    "firebase_url": "https://qrgallery-74cba-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "qrgallery-74cba",
+    "storage_bucket": "qrgallery-74cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514390069422:android:459cd300c81d5a0d8f1d3f",
+        "android_client_info": {
+          "package_name": "gr.aueb.cf.qrgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514390069422-7odv6f54p4kje7lav63l8fvial32i2rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbB9moZLohc9L91bv86SKV7yydy6N1DOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514390069422-7odv6f54p4kje7lav63l8fvial32i2rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
